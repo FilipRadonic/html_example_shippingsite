@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Logistics SaaS - Streamline Your Supply Chain</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Logistics SaaS</h1>
+    <h2>Streamline Your Supply Chain</h2>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#pricing">Pricing</a></li>
+      <li><a href="#testimonials">Testimonials</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="features">
+      <h3>Powerful Features</h3>
+      <ul>
+        <li>Real-time tracking of shipments</li>
+        <li>Automated shipping and delivery scheduling</li>
+        <li>Integration with major carriers and logistics providers</li>
+        <li>Inventory management and forecasting</li>
+      </ul>
+    </section>
+    <section id="pricing">
+      <h3>Affordable Pricing</h3>
+      <ul>
+        <li>Starter Plan: $49/month</li>
+        <li>Business Plan: $99/month</li>
+        <li>Enterprise Plan: Custom pricing</li>
+      </ul>
+      <button>Sign Up Now</button>
+    </section>
+    <section id="testimonials">
+      <h3>What Our Customers Say</h3>
+      <blockquote>
+        "Logistics SaaS has completely transformed the way we do business. We've been able to streamline our supply chain and save a significant amount of time and money." - John Doe, CEO of ABC Company
+      </blockquote>
+      <blockquote>
+        "The real-time tracking feature has been a game-changer for us. We always know exactly where our shipments are and when they'll be delivered." - Jane Smith, COO of XYZ Inc.
+      </blockquote>
+    </section>
+    <section id="contact">
+      <h3>Get in Touch</h3>
+      <p>Ready to see how Logistics SaaS can benefit your business? Contact us using the form below or give us a call at 555-555-5555.</p>
+      <form>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message"></textarea><br>
+        <input type="submit" value="Send">
+      </form> 
+    </section>
+  </main>
+  <footer>
