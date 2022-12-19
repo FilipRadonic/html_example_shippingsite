@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 48px;
+}
+
+h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+nav {
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin: 20px 0;
+}
+
+section h3 {
+  margin: 0;
+  font-size: 24px;
+}
+
+section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+section li {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+section button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+section blockquote {
+  margin: 20px 0;
+  font-style: italic;
+  font-size: 18px;
+}
+
+section form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+section form label {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+section form input, section form textarea {
+  font-size: 18px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+section form input[type="submit"] {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
